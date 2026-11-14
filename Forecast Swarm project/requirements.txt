@@ -1,0 +1,5 @@
+anthropic>=2.8
+numpy
+pandas
+pydantic>=2
+pytest
